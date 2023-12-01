@@ -11,6 +11,7 @@ To make additional software installations easier, CSC has created a **SD Softwar
 that provides an easy way to add few commonly used software packages and help tools to your virtual desktop. 
 This document describes the usage of this tool.
 
+<iframe width="560" height="315" srcdoc="https://www.youtube.com/embed/S4hpjPy-TDQ" title="SD Desktop software installer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Requirements
 
