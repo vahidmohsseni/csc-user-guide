@@ -22,7 +22,7 @@ Currently supported JAX versions:
 
 | Version | Module       | Puhti | Mahti | LUMI | Notes           |
 |:-------:|--------------|:-----:|:-----:|:----:|-----------------|
-| 0.4.20  | `jax/0.4.20` | X     | X     | -    | default version |
+| 0.4.20  | `jax/0.4.20` | X     | X     | X*   | default version |
 | 0.4.18  | `jax/0.4.18` | -     | -     | X*   |                 |
 | 0.4.14  | `jax/0.4.14` | X     | X     | -    |                 |
 | 0.4.13  | `jax/0.4.13` | X     | X     | -    |                 |
@@ -33,9 +33,9 @@ The modules contain [JAX](https://github.com/google/jax/) for Python
 with GPU support via CUDA/ROCm.
 
 **Versions in LUMI, marked as "X*" are still experimental with limited
-support.** They are subject to change at any time without notice. Note
-that JAX is also available in the [LUMI Software
-Library](https://lumi-supercomputer.github.io/LUMI-EasyBuild-docs/j/jax/).
+support.** Some of the features described below might not work for them.
+They are subject to change at any time without notice. Note that JAX is
+also available in the [LUMI Software Library](https://lumi-supercomputer.github.io/LUMI-EasyBuild-docs/j/jax/).
 
 If you find that some package is missing, you can often install it
 yourself with `pip install --user`. See [our Python
