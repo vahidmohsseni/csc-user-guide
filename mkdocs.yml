@@ -363,6 +363,7 @@ nav:
       - data/sensitive-data/index.md
       - Choose service: data/sensitive-data/choose-a-service.md
       - Store and analyse:
+        - data/sensitive-data/sd-store-and-analyse.md
         - Start here: data/sensitive-data/sd-access.md
         - Store with SD Connect: 
             - data/sensitive-data/sd_connect.md
@@ -382,6 +383,7 @@ nav:
             - Export data: data/sensitive-data/sd-desktop-export.md
             - Troubleshooting: data/sensitive-data/sd-desktop-troubleshooting.md
       - Publish and reuse:
+        - data/sensitive-data/sd-publish-and-reuse.md
         - Federated EGA: 
             - data/sensitive-data/federatedega.md
             - Data access application: data/sensitive-data/fega-application.md
@@ -392,6 +394,7 @@ nav:
             - Data access for Data Applicant: data/sensitive-data/sd-apply-access.md
             - Data approval for DAC: data/sensitive-data/sd-apply-approval.md
       - Secondary use of health and social data:
+        - data/sensitive-data/sd-secondary-use-of-health-and-social-data.md
         - Start here:
             - Access with Findata permit: data/sensitive-data/findata-permit.md
             - Access with register permit: data/sensitive-data/single-register-permit.md
