@@ -8,14 +8,14 @@ The secondary use of health and social data means that the customer and register
 Before using CSC's Sensitive Data services for secondary use, **you need to have a data permit**. There is two permit options:
 
 * [Permit from Findata](findata-permit.md)
-* [Permit from single public register](sd-desktop-audited.md)
+* [Permit from single public register](./single-register-permit.md)
 
 
 ## Available services for secondary use
 
 ### Restricted SD Desktop
 
-SD Desktop is a service that allows you to use virtual desktop (i.e. virtual machine) from your web browser. With the virtual desktop, you can access and analyse authorised datasets. SD Desktop for secondary use is a restricted version from standard SD Desktop. It is certified for data processing under the Act on the Secondary Use of Health and Social Data. [Read more about restricted SD Desktop](sd-derktop-audited.md).
+SD Desktop is a service that allows you to use virtual desktop (i.e. virtual machine) from your web browser. With the virtual desktop, you can access and analyse authorised datasets. SD Desktop for secondary use is a restricted version from standard SD Desktop. It is certified for data processing under the Act on the Secondary Use of Health and Social Data. [Read more about restricted SD Desktop](sd-desktop-audited.md).
 
 !!! Note
 
