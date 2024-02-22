@@ -15,7 +15,7 @@ Before using CSC's Sensitive Data services for secondary use, **you need to have
 
 ### Restricted SD Desktop
 
-SD Desktop is a service that allows you to use virtual desktop (i.e. virtual machine) from your web browser. With the virtual desktop, you can access and analyse authorised datasets. SD Desktop for secondary use is a restricted version from standard SD Desktop. It is certified for data processing under the Act on the Secondary Use of Health and Social Data. [Read more about restricted SD Desktop](sd-desktop-audited.md).
+SD Desktop is a service that allows you to use virtual desktop (i.e. virtual machine) from your web browser. With the virtual desktop, you can **access and analyse** authorised datasets. SD Desktop for secondary use is a restricted version from standard SD Desktop. It is certified for data processing under the Act on the Secondary Use of Health and Social Data. [Read more about restricted SD Desktop](sd-desktop-audited.md).
 
 !!! Note
 
@@ -27,4 +27,4 @@ SD Desktop is a service that allows you to use virtual desktop (i.e. virtual mac
 
 ### SD Apply
 
-SD Apply is a service for applying access rights to sensitive datasets. You need to use SD Apply, if your data permit is from [single public register](sd-desktop-audited.md). In practice, it is a simple web user interface that guides you during the application process. After your application process is completed, the data will be available in SD Desktop service. [Read more about SD Apply](./single-register-permit.md#applying-for-access-to-secondary-use-single-register-data-with-sd-apply).
+SD Apply is a service for **applying access rights** to sensitive datasets. It is a simple web user interface that guides you during the application process. If you have received a permit from a single register, you need to use SD Apply for applying access to the data. After the application process is completed, the data will be available in the restricted SD Desktop service. [Read more about SD Apply](./single-register-permit.md#applying-for-access-to-secondary-use-single-register-data-with-sd-apply).
