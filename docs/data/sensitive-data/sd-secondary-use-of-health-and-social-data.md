@@ -17,13 +17,14 @@ Before using CSC's Sensitive Data services for secondary use, **you need to have
 
 SD Desktop is a service that allows you to use virtual desktop (i.e. virtual machine) from your web browser. With the virtual desktop, you can access and analyse authorised datasets. SD Desktop for secondary use is a restricted version from standard SD Desktop. It is certified for data processing under the Act on the Secondary Use of Health and Social Data. [Read more about restricted SD Desktop](sd-derktop-audited.md).
 
+!!! Note
+
+    * All data (incl. research group’s own data, scripts, programs) must be transferred to the computing environment through the data controller. SD Connect is not available for secondary use.
+
+    * If you need a software that is not available on the Desktop as a default, please contact [Service Desk](../../support/contact.md) *(Subject: Sensitive Data)* well in advance - even before applying for a data permit.
+
+    * Export of the results must be requested from the service desk and all exported data will be approved by the data permit authority.
 
 ### SD Apply
 
 SD Apply is a service for applying access rights to sensitive datasets. You need to use SD Apply, if your data permit is from [single public register](sd-desktop-audited.md). In practice, it is a simple web user interface that guides you during the application process. After your application process is completed, the data will be available in SD Desktop service. [Read more about SD Apply](./single-register-permit.md#applying-for-access-to-secondary-use-single-register-data-with-sd-apply).
-
-!!! Note ""
-
-    **Note:** SD Connect is not available for secondary use of health and social data. If you need to import additional data, script, or software into the virtual desktop, please contact [Service Desk](../../support/contact.md) *Subject: Sensitive Data*.
-
-    If you need a software that is not available on the Desktop as a default, please contact Service Desk well in advance - even before applying for a data permit. 
