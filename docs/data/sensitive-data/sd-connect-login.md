@@ -22,4 +22,4 @@ After creating a CSC account, a CSC project and applying for Allas service acces
 
 ### Share files
 
-[Download](https://github.com/CSCfi/csc-user-guide/blob/ac-test-sidenav/docs/data/sensitive-data/sd-connect-upload-for-analysis.md)
+[Share](https://github.com/CSCfi/csc-user-guide/blob/ac-test-sidenav/docs/data/sensitive-data/sd-connect-upload-for-analysis.md)
