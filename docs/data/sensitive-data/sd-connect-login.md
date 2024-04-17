@@ -10,6 +10,12 @@ After creating a CSC account, a CSC project and applying for Allas service acces
 
 [![SDConnect-login](images/connect/SDConnect-login.png)](images/connect/SDConnect-login.png)
 
-## Next 
+## Next steps
 
-Upload [https://sd-connect.csc.fi](https://github.com/CSCfi/csc-user-guide/blob/ac-test-sidenav/docs/data/sensitive-data/sd-connect-upload-for-analysis.md)
+### Upload 
+
+[Upload](https://github.com/CSCfi/csc-user-guide/blob/ac-test-sidenav/docs/data/sensitive-data/sd-connect-upload-for-analysis.md)
+
+### Download 
+
+[Download](https://github.com/CSCfi/csc-user-guide/blob/ac-test-sidenav/docs/data/sensitive-data/sd-connect-upload-for-analysis.md)
