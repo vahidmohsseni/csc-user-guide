@@ -9,3 +9,7 @@ After creating a CSC account, a CSC project and applying for Allas service acces
     The interface is compatible with all modern web browsers but does not support Firefox private browsing (incognito mode). 
 
 [![SDConnect-login](images/connect/SDConnect-login.png)](images/connect/SDConnect-login.png)
+
+## Next 
+
+Upload [https://sd-connect.csc.fi](https://github.com/CSCfi/csc-user-guide/blob/ac-test-sidenav/docs/data/sensitive-data/sd-connect-upload-for-analysis.md)
