@@ -74,3 +74,13 @@ If you create a new bucket, use the following suggestions to name it. Bucket nam
 9. Next, click on _Upload_. A progress bar will visualize the upload's status. Once the process is completed, you can return to the SD Connect browser window, open the bucket and visualize the encrypted file, here named `.c4hg`.
 
 [![SDConnect-upload-encrypted](images/connect/connect_encryption_large_upload.png)](images/connect/connect_encryption_large_upload.png)
+
+## Next steps:
+
+### Download files
+
+[Download](https://github.com/CSCfi/csc-user-guide/blob/ac-test-sidenav/docs/data/sensitive-data/sd-connect-upload-for-analysis.md)
+
+### Share files
+
+[Share](https://github.com/CSCfi/csc-user-guide/blob/ac-test-sidenav/docs/data/sensitive-data/sd-connect-upload-for-analysis.md)
