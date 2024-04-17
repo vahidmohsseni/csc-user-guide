@@ -3,11 +3,11 @@
 [SD Desktop Login page](https://sd-desktop.csc.fi)
 
 Before logging into SD Desktop for the first time:
-- you must create a CSC account
-- activate MFA Authentication
-- be part of some CSC project
-- 
-All this happens in MyCSC-portal. Read more from [Start here](./sd-access.md#how-to-access-sd-connect-and-sd-desktop-for-storing-sharing-or-analyzing-sensitive-research-data).*
+- Create a CSC account
+- Activate MFA Authentication (two-step verification)
+- Be a member or a manager of a CSC project
+  
+All this happens in MyCSC portal. Read more from [Start here](./sd-access.md#how-to-access-sd-connect-and-sd-desktop-for-storing-sharing-or-analyzing-sensitive-research-data).
 
 ## Step by step
 
